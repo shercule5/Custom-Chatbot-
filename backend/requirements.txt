@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+faiss-cpu
+sentence-transformers
+numpy
+pypdf
+openai
+requests
+sse-starlette
