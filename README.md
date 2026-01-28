@@ -8,7 +8,7 @@ A Retrieval-Augmented Generation (RAG) chatbot with:
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Clone the repo
 ```bash
@@ -41,12 +41,12 @@ Make sure Ollama
 ollama pull mistral
 
 
-✅ Once everything is running:
+  Once everything is running:
 
 Backend → http://127.0.0.1:8000/docs
 
 Frontend → http://localhost:5173
 
-Open the UI, type a question, and start chatting 🎉
+Open the UI, type a question, and start chatting 
 
 
